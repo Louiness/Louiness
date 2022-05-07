@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm racking my brains to let you know about me. It will be completed soon.😎
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louiness)](https://github.com/Louiness/github-readme-stats)
 <!--
 **Louiness/Louiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
